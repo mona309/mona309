@@ -1,4 +1,4 @@
-# Hi there, I'm Mona! 👋
+# Hi there, I'm Monisha! 👋
 
 ![GitHub followers](https://img.shields.io/github/followers/mona309?label=Follow&style=social) ![GitHub User's stars](https://img.shields.io/github/stars/mona309?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
