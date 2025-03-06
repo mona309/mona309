@@ -4,13 +4,30 @@
 
 ## About Me
 
-- 🌱 I’m currently learning [insert technologies or topics you are learning]
-- 👯 I’m looking to collaborate on [insert projects or types of projects]
-- 🤔 I’m looking for help with [insert areas where you need help]
-- 💬 Ask me about [insert topics you are knowledgeable about]
-- 📫 How to reach me: [insert contact information]
-- 😄 Pronouns: they/them
-- ⚡ Fun fact: [insert fun fact about you]
+<!-- Remove or uncomment sections as needed -->
+
+- 🌱 I'm currently learning:
+  - Rust
+  - MEAN Stack
+  - Machine Learning
+  <!-- - Add more technologies --> 
+
+- 👯 I'm looking to collaborate on:
+  - Open source projects
+  - Web development  <!-- - Add specific projects -->
+
+    <!-- - 🤔 I'm looking for help with [Remove if not applicable] -->
+
+- 💬 Ask me about:
+  - Programming
+  - Technology  
+  - Books
+  <!-- - Add your areas of expertise -->
+
+- 📫 How to reach me:
+  - Email: [monishasharma134@gmail.com](mailto:monishasharma134@gmail.com)
+  - LinkedIn: [Monisha Sharma](https://www.linkedin.com/in/monisha-sharma-01b14a25a)
+
 
 ## GitHub Stats
 
