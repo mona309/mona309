@@ -26,7 +26,8 @@
 
 - 📫 How to reach me:
   - Email: [monishasharma134@gmail.com](mailto:monishasharma134@gmail.com)
- <!-- - LinkedIn: [Monisha Sharma](https://www.linkedin.com/in/monisha-sharma-01b14a25a)-->
+  - LinkedIn: [Monisha Sharma](https://www.linkedin.com/in/monisha-sharma-01b14a25a)
+  - Instagram : [mnx39](https://www.instagram.com/_mnx39_)
 
 
 ## GitHub Stats
