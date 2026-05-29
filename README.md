@@ -2,10 +2,10 @@
 
 <p align="center">
   <a href="https://github.com/mona309">
-    <img src="https://img.shields.io/github/followers/mona309?label=Follow&style=for-the-badge&logo=github&color=6B4EAD&logoColor=white" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/followers/mona309?label=Followers&style=for-the-badge&logo=github&color=6B4EAD&logoColor=white" alt="GitHub followers" />
   </a>
   <a href="https://github.com/mona309">
-    <img src="https://img.shields.io/github/stars/mona309?style=for-the-badge&logo=github&color=FF8C00&logoColor=white" alt="GitHub Stars" />
+    <img src="https://img.shields.io/badge/Focus-Robotics%20%26%20AI-orange?style=for-the-badge&logo=robot&logoColor=white" alt="Focus: Robotics & AI" />
   </a>
   <a href="https://linkedin.com/in/monisha-sharma-01b14a25a">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&color=0A66C2&logoColor=white" alt="LinkedIn" />
@@ -105,8 +105,8 @@ Whether I'm developing reinforcement learning models for robotic surgery, design
 ### 📊 GitHub Activity & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mona309&show_icons=true&theme=radical&hide_border=true&title_color=9B5DE5&icon_color=00F5D4&text_color=FFFFFF&bg_color=1E1E2F" alt="Mona's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mona309&layout=compact&theme=radical&hide_border=true&title_color=9B5DE5&icon_color=00F5D4&text_color=FFFFFF&bg_color=1E1E2F" alt="Top Languages" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mona309&theme=dracula" alt="Mona's GitHub Summary Card" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=mona309&theme=dracula" alt="Mona's GitHub Streak Card" width="49%" />
 </p>
 
 ---
